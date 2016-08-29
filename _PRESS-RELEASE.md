@@ -1,5 +1,7 @@
 # Project Name #
 
+Doodle-oo
+
 <!-- 
 > This material was originally posted [here](http://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management). It is reproduced here for posterities sake.
 
@@ -17,28 +19,40 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+
+  Make doodles and share with friends.
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+
+  Doodle-oo is for creative people who love to draw.
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+
+  Doodle-oo is all about the joy of doodling. The webpage consists of a canvas on which you can draw using different tools and colors. After your doodle is done, save it and share with your friends.
 
 ## Problem ##
-  > Describe the problem your product solves.
+
+  Doodle-oo can help with many tasks. Users can:
+   * brainstorm
+   * sketch for fun or relaxation
+   * share ideas with coworkers
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+
+  Doodle-oo makes it easy to open a blank canvas and just start drawing. There is no need for setup and nothing to keep you from getting your ideas out of your brain and into the world. After saving, you will be given a unique url to share your drawing.
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+
+  I just think this is great! Doodle-oo represents the next step in art. 
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+
+  Just point open up the website and start doodling!
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+
+  Before, if I had an idea for a drawing, I'd have to get out a piece of paper and find my pens. Now, I can just start drawing without any of that headache. Thanks Doodle-oo!
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+
+  Try Doodle-oo. It's easy to get started doodling and sharing today
